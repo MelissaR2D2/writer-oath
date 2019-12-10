@@ -1,0 +1,26 @@
+{
+  "name": "user-authentication",
+  "version": "1.0.0",
+  "description": "There are many ways to provide authentication for users in your application. Often, sites require a username and password, but others allow you to login with another account, such as Facebook or Google. Sometimes websites include two-factor authentication, such as with an extra application like Duo or a physical device like a YubiKey.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BYUCS260/user-authentication.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BYUCS260/user-authentication/issues"
+  },
+  "homepage": "https://github.com/BYUCS260/user-authentication#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.7",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.7.13"
+  }
+}
