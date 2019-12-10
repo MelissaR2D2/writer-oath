@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # User Authentication
 
 There are many ways to provide authentication for users in your application.
@@ -17,3 +18,7 @@ for authenticating users in a web application.
 - [Lesson 3](/tutorials/lesson3.md): Salting and Hashing Passwords
 - [Lesson 4](/tutorials/lesson4.md): Registration
 - [Lesson 5](/tutorials/lesson5.md): Authentication
+=======
+# writer-oath
+Website for writers to track their projects
+>>>>>>> 6a0c31a94ffb658fb25e871fe04d5f1fb60ed3fd
